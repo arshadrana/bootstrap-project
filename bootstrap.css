@@ -1,0 +1,94 @@
+
+
+header{
+    background-color: #87509c;
+    
+}
+.header{
+  background-color: #87509c;
+  
+}
+.heading{
+ font-size: 35px;
+}
+p{
+  font-size: 17px;
+  padding:2px;
+}
+
+.underline{
+  border-bottom: 5px solid #00000034;
+  width: 8%;
+  margin: 20px auto;
+
+}
+#services{
+    background-color: #00CC99;
+}
+#team{
+    background-color: rgba(27, 136, 136, 0.521) 255 255;
+}
+
+.team-icon-box{
+  margin: 20px 0px;
+}
+
+#skills{
+    background-color: #ffffffd3;
+}
+#Portfolio{
+    background-color:#FFCC99;
+    padding-left: 1px;
+    margin: auto;
+}
+.portfolio-btn li{
+ display: inline;
+ height: 10px;
+ padding: 0px 8px;
+}
+ .portfolio-btn li:hover{
+  background-color: #CC3399;
+  display: inline;
+  height: 10px;
+  padding: 0px 8px;
+  }
+   
+#about{
+    background-color: #CC3399;
+}
+#Contact {
+  background-color: #273a71;
+  color: white;
+  border-color: #273a71;
+} 
+.form-control{
+  background: #344b8e; 
+  padding: 5px ;
+  color: white;
+}
+   /* Footer Open */
+ .footer-btn{
+    background: #344b8e;
+    color: #ffff;
+    text-align: center; 
+  }
+
+.footer-btn li{
+  display: inline;
+  height: 10px;
+   padding: 0px 8px;
+} 
+.footer-btn li:hover{
+   background-color: #cc33ab;
+   display: inline;
+   height: 10px;
+   padding: 0px 8px;
+  }
+ 
+   @media (max-width:576px) {
+    p{
+      font-size: 17px;
+      
+    }
+    
+   }
